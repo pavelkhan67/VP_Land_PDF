@@ -23,7 +23,7 @@
         }
 
         #width {
-            width: 24%;
+            width: 20%;
         }
 
         .color {
@@ -36,7 +36,7 @@
 
     {{-- Page 1  --  Pdf 1 --}}
     <div id="page-1" class="text-center py-5 px-4" style="height: 100vh;">
-        <div class="fs-6 fw-bold space-y-1">
+        <div class="fs-6 fw-bold ">
             <p class="mb-1">১ নং রেজিস্টার</p>
             <p class="mb-1">আপিত সম্পত্তি ( ভূমি ও দালান / অবকাঠামো )</p>
             <p class="m-0">রেজিস্টার নং-১</p>
@@ -113,7 +113,7 @@
 
     {{-- Page 2  --  Pdf 2 --}}
     <div id="page-2" class="text-center py-5 px-4" style="height: 100vh;">
-        <div class="fs-6 fw-bold space-y-1">
+        <div class="fs-6 fw-bold ">
             <p class="mb-1">2 নং রেজিস্টার</p>
             <p class="mb-1">আপিত সম্পত্তি ( ভূমি ও দালান / অবকাঠামো )</p>
             <p class="m-২">রেজিস্টার নং-2</p>
@@ -254,6 +254,7 @@
                     <p class="fw-bold">মন্তব্য</p>
                 </div>
             </div>
+
             {{-- data --}}
             <div class="row border border-top-0  border-dark m-0 text-start">
                 <div class="col-3 border-end border-dark">
@@ -389,7 +390,7 @@
 
     {{-- Page 3  --  Pdf 3 --}}
     <div id="page-3" class="text-center py-5 px-4" style="height: 100vh;">
-        <div class="fs-6 fw-bold space-y-1">
+        <div class="fs-6 fw-bold ">
             <p class="mb-1">৩ নং রেজিস্টার</p>
             <p class="mb-1">আপিত সম্পত্তি ( ভূমি ও দালান / অবকাঠামো )</p>
             <p class="m-২">রেজিস্টার নং-৩</p>
@@ -600,7 +601,7 @@
 
     {{-- Page 4  --  Pdf 4 --}}
     <div id="page-4" class="text-center py-5 px-4" style="height: 100vh;">
-        <div class="fs-6 fw-bold space-y-1">
+        <div class="fs-6 fw-bold ">
             <p class="mb-1">৪ নং রেজিস্টার</p>
             <p class="mb-1">আপিত সম্পত্তি ( ভূমি ও দালান / অবকাঠামো )</p>
             <p class="m-২">রেজিস্টার নং-৪</p>
@@ -802,6 +803,63 @@
 
             </div>
         </div>
+    </div>
+
+    {{-- Page 5  --  Pdf 5 --}}
+    <div id="page-5" class="text-center py-5 px-4" style="height: 100vh;">
+        <div class="fs-6 fw-bold ">
+            <p class="mb-1">৫ নং রেজিস্টার</p>
+            <p class="mb-1">আপিত সম্পত্তি ( ভূমি ও দালান / অবকাঠামো )</p>
+            <p class="m-২">রেজিস্টার নং-৫</p>
+            <p class="m-0">( সম্পত্তির তালিকা )</p>
+        </div>
+        <div class="text-start">
+        <p class="mt-3 fw-normal">ক. আপিত সম্পত্তির কেইস নং - <span class="red">৫৪৮২/২০২৩</span></p>
+        <p class="mt-3 fw-normal">খ. সম্পত্তির অবস্থান - জেলাঃ <span class="red">ঢাকা</span>, উপজেলা/সার্কেলঃ <span
+                class="red">উত্তরা</span>,
+            মৌজাঃ <span class="red">বাউনিয়া</span>, জেএল নং- <span class="red">১০৮</span>, দাগ নং- <span
+                class="red">২৫৪</span>, পৌর হোল্ডিং নং-<span class="red"> ৫৬৮</span>, জমির পরিমাণ- <span
+                class="red">০.০২১৪</span> একর</p>
+        <p class="mt-3 fw-normal">গ. দখল নেয়ার তারিখ - <span class="red">১২/০২/২০২৩</span> খ্রিঃ</p>
+        </div>
+
+        <table class=" table table-bordered border-dark text">
+            <thead>
+                <tr class="align-top">
+                    <th scope="col">ক্রমিক</th>
+                    <th scope="col">দালান অথবা অন্য অবকাঠামোর প্রকৃতি</th>
+                    <th scope="col">পূর্ণ বিবরণ কক্ষ সংখ্যা / অবকাঠামোর বিবরণ সহ</th>
+                    <th scope="col">প্রতিটি কক্ষ / অবকাঠামোর আয়তন</th>
+                    <th scope="col">অবকাঠামোর আনুমানিক মূল্য</th>
+                    <th scope="col">ফলজ বা অন্যান্য মূল্যবান গাছের নাম ও সংখ্যা</th>
+                    <th scope="col">সংযুক্ত অন্যান্য সম্পত্তির বিবরণ যেমন পুকুর, মন্দির ইত্যাদি</th>
+                    <th scope="col">মন্তব্য</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>(১)</td>
+                    <td>(২)</td>
+                    <td>(৩)</td>
+                    <td>(৪)</td>
+                    <td>(৫)</td>
+                    <td>(৬)</td>
+                    <td>(৭)</td>
+                    <td>(৮)</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
 </body>
